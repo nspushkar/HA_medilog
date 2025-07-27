@@ -23,6 +23,10 @@ The foundational system is in place, allowing users to:
 *   **Folder Creation System:** Users can create folders (e.g., "Annual Checkup 2024", "Dad's Heart Condition") to organize their future records.
 *   **Folder Viewing:** The dashboard displays a list of all folders created by the user.
 
+  ![Alt text](https://github.com/nspushkar/HA_medilog/blob/main/1.jpg?raw=true)
+  
+
+
 ## 🛠️ Technology Stack
 
 This project is built with a modern, scalable, and developer-friendly tech stack.
