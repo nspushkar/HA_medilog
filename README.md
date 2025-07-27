@@ -24,6 +24,12 @@ The foundational system is in place, allowing users to:
 *   **Folder Viewing:** The dashboard displays a list of all folders created by the user.
 
   ![Alt text](https://github.com/nspushkar/HA_medilog/blob/main/1.jpg?raw=true)
+    ![Alt text](https://github.com/nspushkar/HA_medilog/blob/main/2.jpg?raw=true)
+      ![Alt text](https://github.com/nspushkar/HA_medilog/blob/main/3.jpg?raw=true)
+
+  ``html
+      <img src="https://github.com/nspushkar/HA_medilog/blob/main/1.jpg?raw=true" width="300"/>
+
   
 
 
