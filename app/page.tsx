@@ -1,5 +1,7 @@
 // app/page.tsx
 import AuthButtons from "@/components/auth/authButtons";
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
@@ -16,6 +18,13 @@ export default function Home() {
         <p className="mt-4 text-lg text-muted-foreground">
           Your personal health records, digitized and organized.
         </p>
+        <div className="mt-8">
+          <Link href="/dashboard">
+            <Button size="lg">
+              Go to Dashboard
+            </Button>
+          </Link>
+        </div>
         {/* We will add the upload component here later */}
       </div>
     </main>
